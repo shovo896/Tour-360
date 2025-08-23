@@ -75,3 +75,7 @@
         .banner-content *{
             margin-bottom:20px ;
         }
+        .banner-image img{
+            width: 600px;
+
+        }
