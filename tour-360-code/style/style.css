@@ -35,6 +35,11 @@
         }
          .heading-content h4{
             color:#f411cf;
+            font-weight: bold;
+            font-size: 24px;
+            letter-spacing: 30%;
+            text-transform: uppercase;
+
 
          }
 
