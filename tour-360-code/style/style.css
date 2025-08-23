@@ -145,7 +145,9 @@
         gap:20px;
        }
       .story-content h2,
-      .story-content p{
+      .story-content p,
+      .story-content img
+      {
         margin-bottom:30px; 
       } 
 
