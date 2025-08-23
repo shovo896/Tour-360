@@ -17,5 +17,10 @@
            /* margin:100px 50px;*/
            /*margin: 100px 10px 25px 50px  ; */
            /*         T    R     B     L  */
+           width:600px;
+           background-color: bisque;
+           margin: 100px auto 120px auto;
+
+
 
         }
