@@ -129,6 +129,11 @@
        .service-card img {
         margin-bottom: 30px;
        }
+       .service-card h2 {
+         font-weight: semibold;
+         font: size 28px;
+         margin-bottom: 20px;
+       }
 
        
 
