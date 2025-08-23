@@ -116,9 +116,13 @@
       #service-card-container {
         display: flex;
         justify-content:space-between ;
-        gap:30px;
-
-
-
-
+        gap:30px 
        } 
+       .service-card{
+        background-color: white;
+        padding: 20px;
+        text-align: center;
+
+       }
+
+      
