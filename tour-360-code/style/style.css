@@ -137,6 +137,14 @@
        .service-card p {
         color:#a8a8a8;
        }
+       .story-card{
+        background-color: white;
+        padding:40px;
+        border-radius: 24px;
+        display: flex;
+        gap:20px;
+       }
+
 
        
 
