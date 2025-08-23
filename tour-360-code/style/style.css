@@ -144,7 +144,8 @@
         display: flex;
         gap:20px;
        }
-      .story-content{
+      .story-content h2,
+      .story-content p{
         margin-bottom:30px; 
       } 
 
