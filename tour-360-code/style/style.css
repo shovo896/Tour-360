@@ -7,6 +7,13 @@
             margin:0;
             padding:0;
         }
+        .btn{
+            background-color: #872bff ;
+            border-radius: 30px;
+
+
+
+        }
         #banner {
            /* margin-top:100px;
             margin-bottom:120px;
