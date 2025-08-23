@@ -154,10 +154,13 @@
       #country-card-container{
         display: flex;
         gap:30px;
+        flex-wrap:wrap;
+        justify-content: center;
       }
       #country-card-container h2{
         background-color: white;
         padding: 40px;
+        border-radius: 30px;
       }
 
 
