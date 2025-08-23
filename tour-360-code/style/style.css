@@ -19,6 +19,16 @@
 
 
         }
+        .btn-white {
+             background-color: #872bff ;
+            border-radius: 30px;
+            padding: 16px 32px;
+            color: white;
+            cursor: pointer;
+            margin-right: 20px;
+            |
+        }
+
         #banner {
            /* margin-top:100px;
             margin-bottom:120px;
