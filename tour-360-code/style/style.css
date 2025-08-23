@@ -21,6 +21,7 @@
            width: 87.5%;
            border-radius:40px;
            display: flex;
+           justify-content: space-between;
            background-color: white;
            margin: 100px auto 120px auto;
            border:2px solid #872DFF10;
