@@ -107,7 +107,7 @@
         .banner-image{
             width:50%;
         }
-        #service,#story{
+        #service,#story,#country{
             width: 87.5%;
             margin:0px auto 120px auto;
 
@@ -150,6 +150,16 @@
       {
         margin-bottom:30px; 
       } 
+
+      #country-card-container{
+        display: flex;
+        gap:30px;
+      }
+      #country-card-container h2{
+        background-color: white;
+        padding: 40px;
+      }
+
 
 
        
