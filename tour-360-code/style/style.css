@@ -144,6 +144,9 @@
         display: flex;
         gap:20px;
        }
+      .story-content{
+        margin-bottom:30px; 
+      } 
 
 
        
