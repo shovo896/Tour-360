@@ -22,11 +22,15 @@
 
         }
 
+.banner-content{
+            width:100%;
+        }
 
     
 
     
 }
+ 
 
 /* mobile dcevice */
 @media screen and (max-width:640px){
