@@ -1,4 +1,13 @@
-body{
-    background-image: linear-gradient(red);
+/* laptop dcevice */
+@media screen (max-width:1200px){
 
+    
 }
+
+/* tablet device */
+@media screen (max-width:1024px){
+
+    
+}
+
+/* mobile dcevice */
