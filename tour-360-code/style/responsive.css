@@ -1,5 +1,8 @@
 /* laptop dcevice */
 @media screen (max-width:1200px){
+    banner-content h1{
+            font-size: 48px;
+            
 
     
 }
@@ -12,5 +15,5 @@
 
 /* mobile dcevice */
 @media screen and (max-width:640px){
-    
+
 }
