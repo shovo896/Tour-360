@@ -5,7 +5,12 @@
             
 
     
-}
+    }
+    .service-card {
+        padding:80px 20px;
+
+    }
+
 }
 
 /* tablet device */
