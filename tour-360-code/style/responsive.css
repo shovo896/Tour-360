@@ -21,6 +21,14 @@
 
 /* tablet device */
 @media screen (max-width:1024px){
+         .banner-content{
+                text-align: center;
+         }
+
+
+        .banner-content h1{
+            font-size: 36px;
+
      #banner {
           
            
