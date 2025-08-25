@@ -37,8 +37,12 @@
         }
 #service-card-container{
         flex-direction: column;
+        .service-card {
+                max-width: 100%;
+        }
 
 }
+
     
 
     
