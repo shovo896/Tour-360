@@ -67,7 +67,12 @@
 
 /* mobile dcevice up to 425px */
 @media screen and (max-width:640px){
-         banner-content h1{
+         .banner-content{
+                text-align: center;
+         }
+
+
+        .banner-content h1{
             font-size: 36px;
 
 
