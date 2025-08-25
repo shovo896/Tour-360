@@ -51,7 +51,14 @@
 .story-card{
         flex-direction: column;
 }
+.story-content{
+        width: 100%;
 
+}
+.story-image{
+        width: 100%;
+
+}
     
 
     
