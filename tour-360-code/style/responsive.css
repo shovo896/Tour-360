@@ -79,6 +79,9 @@
  #country-card-container{
         flex-direction:column;
  }
+ #country-card-container h2{
+      text-align: center;  
+ }
 
 
 }
