@@ -48,6 +48,9 @@
         }
 
 }
+.story-card{
+        flex-direction: column;
+}
 
     
 
