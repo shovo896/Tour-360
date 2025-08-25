@@ -123,9 +123,9 @@
        } 
        .service-card{
         background-color: white;
-        padding:  60px;
+        padding: 100px  60px;
         text-align: center;
-        width:320px;
+       max-width: 350px;
         border-radius: 30px;
 
        }
