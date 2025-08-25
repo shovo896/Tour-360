@@ -76,4 +76,9 @@
         font-size: 32px;
 
 }
+ #country-card-container{
+        flex-direction:column;
+ }
+
+
 }
